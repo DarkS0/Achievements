@@ -1,26 +1,19 @@
-"categories":[
-  "test"{
-    "name":"test",
-    "icon": ["minecraft:wool", 1, 14],
+{
+  "unlocalizedName": "testQuest",
+  "categories":[
+    "testCategory"{
+      "unlocalizedName": "testCategory",
+      "icon": ["minecraft:diamond", 1, 0],
+      "parents": [""],
       "achievements":[
-      "test"{
-        "name":"test",
-        "icon": ["minecraft:diamond", 1, 0],
-        "completed": false,
-        "type":"craft",
-        "data":[
-          "args"{
-            "item":["minecraft:diamond", 10, 0]
-          },
-          "reward"{
-            "type": "choose_one",
-            "items":[
-              "achievements:reward_bag", 1, 0,
-              "achievements:reward_bag", 1, 3
-            ]
-          }
-        ]
-      }
-    ]
-  }
-]
+        "test"{
+          "unlocalizedName": "test",
+          "icon": ["minecraft:diamond", 1, 0],
+          "parents": [""],
+          "special": false,
+          "position": [0, 0]
+        }
+      ]
+    }
+  ]
+}
