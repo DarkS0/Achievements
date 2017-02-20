@@ -6,7 +6,7 @@
       "icon": ["minecraft:diamond", 1, 0],
       "parents": [""],
       "achievements":[
-        "test"{
+        {
           "unlocalizedName": "test",
           "icon": ["minecraft:diamond", 1, 0],
           "parents": [""],
