@@ -1,7 +1,7 @@
 {
   "unlocalizedName": "testQuest",
   "categories":[
-    "testCategory"{
+    {
       "unlocalizedName": "testCategory",
       "icon": ["minecraft:diamond", 1, 0],
       "parents": [""],
