@@ -2,80 +2,12 @@
   "author": "DarkS_0",
   "version": "0.0.1",
   "difficulty": "§aEasy",
-  "unlocalizedName": "testQuest",
+  "name": "Test Quest",
+  "description": "This is a Test Description",
   "categories":[
     {
-      "unlocalizedName": "testCategory",
-      "icon": ["minecraft:diamond", 0, 1, ""],
-      "parents": ["test", "test1", "test2", "test3"],
-      "achievements":[
-        {
-          "unlocalizedName": "test",
-          "icon": ["minecraft:diamond", 0, 1, ""],
-          "parents": [""],
-          "special": false,
-          "position": [0, 0]
-        }
-      ]
-    },
-    {
-      "unlocalizedName": "testCategory",
-      "icon": ["minecraft:diamond", 0, 1, ""],
-      "parents": ["test", "test1", "test2", "test3"],
-      "achievements":[
-        {
-          "unlocalizedName": "test",
-          "icon": ["minecraft:diamond", 0, 1, ""],
-          "parents": [""],
-          "special": false,
-          "position": [0, 0]
-        }
-      ]
-    },
-    {
-      "unlocalizedName": "testCategory",
-      "icon": ["minecraft:diamond", 0, 1, ""],
-      "parents": ["test", "test1", "test2", "test3"],
-      "achievements":[
-        {
-          "unlocalizedName": "test",
-          "icon": ["minecraft:diamond", 0, 1, ""],
-          "parents": [""],
-          "special": false,
-          "position": [0, 0]
-        }
-      ]
-    },
-    {
-      "unlocalizedName": "testCategory",
-      "icon": ["minecraft:diamond", 0, 1, ""],
-      "parents": ["test", "test1", "test2", "test3"],
-      "achievements":[
-        {
-          "unlocalizedName": "test",
-          "icon": ["minecraft:diamond", 0, 1, ""],
-          "parents": [""],
-          "special": false,
-          "position": [0, 0]
-        }
-      ]
-    },
-    {
-      "unlocalizedName": "testCategory",
-      "icon": ["minecraft:diamond", 0, 1, ""],
-      "parents": ["test", "test1", "test2", "test3"],
-      "achievements":[
-        {
-          "unlocalizedName": "test",
-          "icon": ["minecraft:diamond", 0, 1, ""],
-          "parents": [""],
-          "special": false,
-          "position": [0, 0]
-        }
-      ]
-    },
-    {
-      "unlocalizedName": "testCategory",
+      "name": "testCategory",
+      "description": "This is another Thest Description",
       "icon": ["minecraft:diamond", 0, 1, ""],
       "parents": ["test", "test1", "test2", "test3"],
       "achievements":[
