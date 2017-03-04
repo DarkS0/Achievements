@@ -12,7 +12,7 @@
       "parents": ["test", "test1", "test2", "test3"],
       "achievements":[
         {
-          "unlocalizedName": "test",
+          "name": "test",
           "icon": ["minecraft:diamond", 0, 1, ""],
           "parents": [""],
           "special": false,
