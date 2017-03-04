@@ -18,6 +18,27 @@
           "parents": [""],
           "special": false,
           "position": [0, 0]
+        },
+        {
+          "name": "test1",
+          "icon": ["minecraft:diamond", 0, 1, ""],
+          "parents": [""],
+          "special": false,
+          "position": [1, 1]
+        },
+        {
+          "name": "test2",
+          "icon": ["minecraft:diamond", 0, 1, ""],
+          "parents": [""],
+          "special": false,
+          "position": [-4, 0]
+        },
+        {
+          "name": "test3",
+          "icon": ["minecraft:diamond", 0, 1, ""],
+          "parents": [""],
+          "special": false,
+          "position": [0, 8]
         }
       ]
     }
